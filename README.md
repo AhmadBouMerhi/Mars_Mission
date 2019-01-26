@@ -6,8 +6,11 @@ It uses Python dictionary to store the data using the keys img_url and title.
 # Example:
 hemisphere_image_urls = [
     {"title": "Valles Marineris Hemisphere", "img_url": "..."},
+    
     {"title": "Cerberus Hemisphere", "img_url": "..."},
+    
     {"title": "Schiaparelli Hemisphere", "img_url": "..."},
+    
     {"title": "Syrtis Major Hemisphere", "img_url": "..."},
 ]
 
